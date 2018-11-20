@@ -6828,6 +6828,9 @@ body {
 #quotes .blockquote-footer {
   opacity: 0.7; }
 
+#carousel {
+  background-color: #f5f5f5; }
+
 @media (max-width: 768px) {
   .navbar {
     background: #1f1f1f; }
